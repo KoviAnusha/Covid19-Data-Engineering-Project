@@ -1,6 +1,6 @@
 # Covid19-Data-Engineering-Project
 
-(./AWS Architecture.png)
+![AWS Architecture](./AWS%20Architecture.png)
 
 Dataset URL:  https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/  
 
@@ -20,4 +20,4 @@ Steps:
    - Create Dimension and Fact Table schemas.
    - Load data from CSV files in S3 to Redshift
 
-## This is the creation of a datawarehouse.
+### This is the creation of a datawarehouse.
