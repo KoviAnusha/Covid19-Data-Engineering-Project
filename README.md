@@ -6,18 +6,18 @@ Dataset URL:  https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analy
 
 Steps:
 
-1. Understand the data in the datasets
-2. Upload the data to S3
-3. Build crawlers using AWS Glue
-4. The data can be seen on Athena
-5. Build Data Model
-6. Build Dimensional model using star schema
-7. Creation of Dimension and Fact Tables in python (pandas)
-8. Loading data into those tables in python (pandas)
-9. Save resulted CSV files onto S3
-10. Writing a AWS Glue Job using Python Shell Script
-   - Connect to Redshift
-   - Create Dimension and Fact Table schemas.
-   - Load data from CSV files in S3 to Redshift
+1. Understood the data in the datasets.
+2. Uploaded the data to S3.
+3. Built crawlers using AWS Glue.
+4. The data can be seen on Athena.
+5. Built a Data Model.
+6. Built a Dimensional model using star schema.
+7. Created Dimension and Fact Tables in Python (pandas).
+8. Loaded data into those tables in Python (pandas).
+9. Save the resulted CSV files onto S3.
+10. Written an AWS Glue Job using Python Shell Script.
+   - Connected to Redshift.
+   - Created Dimension and Fact Table schemas.
+   - Loaded data from CSV files in S3 to Redshift.
 
 ### This is the creation of a datawarehouse.
