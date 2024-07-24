@@ -14,10 +14,10 @@ Steps:
 6. Built a Dimensional model using star schema.
 7. Created Dimension and Fact Tables in Python (pandas).
 8. Loaded data into those tables in Python (pandas).
-9. Save the resulted CSV files onto S3.
+9. Save the resulting CSV files onto S3.
 10. Written an AWS Glue Job using Python Shell Script.
    - Connected to Redshift.
    - Created Dimension and Fact Table schemas.
    - Loaded data from CSV files in S3 to Redshift.
 
-### This is the creation of a datawarehouse.
+### This is the creation of a data warehouse.
